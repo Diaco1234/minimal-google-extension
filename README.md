@@ -2,6 +2,8 @@
 
 A minimalistic Chrome extension that transforms your new tab page with custom backgrounds, a clean search bar, and a task management system. Features beautiful background images, glassmorphic design elements, and seamless integration with Google and ChatGPT.
 
+<img width="1680" alt="Demo" src="https://github.com/user-attachments/assets/81672b3a-557b-45d2-af3e-8c7e010923b0" />
+
 ## Features
 - Minimalist new tab interface
 - Vertical task management system
@@ -88,14 +90,6 @@ Service worker for caching background images. Features:
 3. **Enable Developer Mode** (toggle in top right corner)
 4. **Click "Load unpacked"** and select the extension directory
 5. **Open a new tab** to see the extension in action
-
-## Example Home Page:
-
-
-
-<img width="1680" alt="Demo" src="https://github.com/user-attachments/assets/81672b3a-557b-45d2-af3e-8c7e010923b0" />
-
-
 
 ## Adding Custom Background Images
 
