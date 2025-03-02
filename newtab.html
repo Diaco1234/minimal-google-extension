@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora&display=swap">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+</head>
+<body>
+  <div class="container" id="main-container">
+    <div class="text-container">
+      <button id="add-text-btn">+</button>
+      <div id="text-input-container" class="hidden">
+        <textarea id="live-text-input" placeholder="Type your text..."></textarea>
+      </div>
+      <div id="text-entries"></div>
+    </div>
+    <div class="content">
+      <div class="search-container">
+        <input type="text" id="search" placeholder="Learn anything in flow state">
+        <div class="search-engine-selector">
+          <img id="google-btn" src="assets/clicked-google.png" alt="Google" class="search-engine-btn active">
+          <img id="chatgpt-btn" src="assets/chatgpt.png" alt="ChatGPT" class="search-engine-btn">
+        </div>
+      </div>
+    </div>
+    <button id="change-bg-btn" class="bg-change-btn">&rarr;</button>
+  </div>
+  <script src="newtab.js" defer></script>
+</body>
+</html>
