@@ -89,6 +89,14 @@ Service worker for caching background images. Features:
 4. **Click "Load unpacked"** and select the extension directory
 5. **Open a new tab** to see the extension in action
 
+## Example Home Page:
+
+
+
+<img width="1680" alt="Demo" src="https://github.com/user-attachments/assets/81672b3a-557b-45d2-af3e-8c7e010923b0" />
+
+
+
 ## Adding Custom Background Images
 
 1. Place your images in the `images/` directory
@@ -151,4 +159,3 @@ This project is open-source and available under the MIT License.
 ## Support
 
 For issues or feature requests, please open an issue on GitHub.
-```
